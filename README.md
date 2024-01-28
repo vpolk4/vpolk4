@@ -22,6 +22,9 @@ About Me
 </div>
 
 
+###
+
+<h3 align="left"> About Me</h3>
 
 -  I’m currently learning networking and security. I take my CCNA this upcoming week.
 -  I’m looking to learn more about the cloud. I am currently building a (mini) SOC & Honeynet in Azure (w/ Live Traffic)
