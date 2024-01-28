@@ -7,19 +7,22 @@
 ###
 
 
-        
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 
 
 
 
-<!--
-**vpolk4/vpolk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+###
 Here are some ideas to get you started:
 About Me
 
-- 🔭 I have a strong foundation in IT, I have a passion for protecting assests and a left of boom approach to threat analysis. 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines=Welcome+to+my+World" alt="Typing SVG" />
+</div>
+
+
+
 - 🌱 I’m currently learning networking and security. I take my CCNA this upcoming week.
 - 👯 I’m looking to learn more about the cloud. I am currently building a (mini) SOC & Honeynet in Azure (w/ Live Traffic)
  - 🤔 I’m looking for help with doing more AWS cloud projects and taking the AWS Cloud Practitioner.
