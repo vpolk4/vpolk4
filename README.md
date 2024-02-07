@@ -28,6 +28,6 @@ Thank you for visiting my Github! This repository is to showcase my cybersecurit
 -  A strong foundation in Networking and Security. I currently have CompTIA Security Plus and CCNA.
 -  I’m looking to learn more about the cloud. I am currently building a (mini) SOC & Honeynet in Azure (w/ Live Traffic)
  - AWS, Linux, Python, CI/CD- These are what I want to gain deep extensive experience in over the next 2 years. 
--  Let's talk about security, networking, my recent projects and even my journey into working into being a solutions architech.
+-  Let's talk about security, networking, my recent projects and even my journey into this space!
 -  How to reach me: vpolk14@outlook.com
 
