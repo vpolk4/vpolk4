@@ -27,7 +27,9 @@ Thank you for visiting my Github! This repository is to showcase my cybersecurit
 
 -  A strong foundation in Networking and Security. I currently have CompTIA Security Plus and CCNA certifications.
 -  I’m looking to learn more about the cloud. I am currently building a (mini) SOC & Honeynet in Azure (w/ Live Traffic).
--  AWS, Linux, Python, CI/CD Pipelines, These are what I want to gain deep extensive experience in over the next 2 years. 
+-  AWS Virtual Private Clouds are what I want to gain deep extensive knowledge and experience in over the next year. 
 -  Let's talk about security, networking, my recent projects and even my journey into this space!
--  How to reach me: vpolk14@outlook.com
+-  One thing I've loved so far about Kali Linux is that there's almost always a solution for every problem. Challenging but one of my favorites so far.
+-  I would especially like to work on a tight knit team where I can make an impact quickly. Let's chat!
+-  vpolk14@outlook.com 
 
