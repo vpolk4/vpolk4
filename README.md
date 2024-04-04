@@ -15,7 +15,7 @@
 
 
 ###
-Thank you for visiting my Github! This repository is to showcase my cybersecurity journey and the different projects I have been working on. 
+Thank you for visiting my Github! This repository is to showcase my cybersecurity journey and the different projects I have been working on.  My latest project—an advanced Honeynet SOC with SIEM Integration. Discover how we're fortifying systems, tracking attackers, and staying one step ahead. Ready to outsmart the bad actors? 🚀 🚀💡
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0FC937&center=true&width=435&lines=Welcome+to+my+World" alt="Typing SVG" />
 </div>
