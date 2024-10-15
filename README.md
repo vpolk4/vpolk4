@@ -30,5 +30,5 @@ Thank you for visiting my Github! This repository is to showcase my cybersecurit
 -  I have learned how to create groups on a Linux system, adding and removing users from those said groups. 
 -  I have also obtained skills to navigate through directories and files with various commands to find sensitive information. 
 -  I also know Privledge escaltion, how to change and modify permissions for directories, files, groups, and users. 
--  
+  
 
